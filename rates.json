@@ -1,0 +1,54 @@
+{
+ "updated": "2026-09-24T20:03:41+00:00",
+ "base": "USD",
+ "rates": {
+  "USD": {
+   "rate": 1,
+   "date": "2026-09-24",
+   "source": {
+    "es": "Referencia",
+    "en": "Reference"
+   }
+  },
+  "ARS": {
+   "rate": 1519.5,
+   "date": "2026-09-24",
+   "source": {
+    "es": "BCRA, tipo de cambio mayorista (Com. A 3500)",
+    "en": "Central Bank of Argentina, wholesale rate (Com. A 3500)"
+   }
+  },
+  "UYU": {
+   "rate": 40.214,
+   "date": "2026-09-24",
+   "source": {
+    "es": "Banco Central del Uruguay, dólar billete",
+    "en": "Central Bank of Uruguay, US dollar rate"
+   }
+  },
+  "CLP": {
+   "rate": 959.39,
+   "date": "2026-09-24",
+   "source": {
+    "es": "Banco Central de Chile, dólar observado",
+    "en": "Central Bank of Chile, observed dollar rate"
+   }
+  },
+  "MXN": {
+   "rate": 17.4888,
+   "date": "2026-09-23",
+   "source": {
+    "es": "Banco de Canadá, cruce USD/CAD y MXN/CAD",
+    "en": "Bank of Canada, USD/CAD and MXN/CAD cross rate"
+   }
+  },
+  "EUR": {
+   "rate": 0.8797,
+   "date": "2026-09-24",
+   "source": {
+    "es": "Banco Central Europeo, tipo de referencia",
+    "en": "European Central Bank, reference rate"
+   }
+  }
+ }
+}
