@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-16T23:44:15+00:00",
+ "updated": "2026-10-20T00:28:52+00:00",
  "base": "USD",
  "rates": {
   "USD": {
    "rate": 1,
-   "date": "2026-10-16",
+   "date": "2026-10-20",
    "source": {
     "es": "Referencia",
     "en": "Reference"
    }
   },
   "ARS": {
-   "rate": 1518.0,
-   "date": "2026-10-16",
+   "rate": 1514.5655,
+   "date": "2026-10-19",
    "source": {
-    "es": "BCRA, tipo de cambio mayorista (Com. A 3500)",
-    "en": "Central Bank of Argentina, wholesale rate (Com. A 3500)"
+    "es": "ExchangeRate-API (respaldo)",
+    "en": "ExchangeRate-API (fallback)"
    }
   },
   "UYU": {
-   "rate": 40.097,
-   "date": "2026-10-16",
+   "rate": 40.125,
+   "date": "2026-10-19",
    "source": {
     "es": "Banco Central del Uruguay, dólar billete",
     "en": "Central Bank of Uruguay, US dollar rate"
    }
   },
   "CLP": {
-   "rate": 984.09,
-   "date": "2026-10-16",
+   "rate": 981.65,
+   "date": "2026-10-19",
    "source": {
     "es": "Banco Central de Chile, dólar observado",
     "en": "Central Bank of Chile, observed dollar rate"
    }
   },
   "MXN": {
-   "rate": 18.4561,
-   "date": "2026-10-16",
+   "rate": 18.4395,
+   "date": "2026-10-19",
    "source": {
     "es": "Banco de Canadá, cruce USD/CAD y MXN/CAD",
     "en": "Bank of Canada, USD/CAD and MXN/CAD cross rate"
    }
   },
   "EUR": {
-   "rate": 0.8887,
-   "date": "2026-10-16",
+   "rate": 0.8909,
+   "date": "2026-10-19",
    "source": {
     "es": "Banco Central Europeo, tipo de referencia",
     "en": "European Central Bank, reference rate"
