@@ -1,34 +1,34 @@
 {
- "updated": "2026-11-11T01:21:04+00:00",
+ "updated": "2026-11-12T02:21:46+00:00",
  "base": "USD",
  "rates": {
   "USD": {
    "rate": 1,
-   "date": "2026-11-11",
+   "date": "2026-11-12",
    "source": {
     "es": "Referencia",
     "en": "Reference"
    }
   },
   "ARS": {
-   "rate": 1545.3974,
-   "date": "2026-11-11",
+   "rate": 1547.9128,
+   "date": "2026-11-12",
    "source": {
     "es": "ExchangeRate-API (respaldo)",
     "en": "ExchangeRate-API (fallback)"
    }
   },
   "UYU": {
-   "rate": 40.519,
-   "date": "2026-11-10",
+   "rate": 40.517,
+   "date": "2026-11-11",
    "source": {
     "es": "Banco Central del Uruguay, dólar billete",
     "en": "Central Bank of Uruguay, US dollar rate"
    }
   },
   "CLP": {
-   "rate": 969.8,
-   "date": "2026-11-10",
+   "rate": 977.05,
+   "date": "2026-11-11",
    "source": {
     "es": "Banco Central de Chile, dólar observado",
     "en": "Central Bank of Chile, observed dollar rate"
@@ -43,8 +43,8 @@
    }
   },
   "EUR": {
-   "rate": 0.8917,
-   "date": "2026-11-10",
+   "rate": 0.8987,
+   "date": "2026-11-11",
    "source": {
     "es": "Banco Central Europeo, tipo de referencia",
     "en": "European Central Bank, reference rate"
