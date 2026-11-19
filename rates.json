@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-18T02:59:36+00:00",
+ "updated": "2026-11-19T02:42:35+00:00",
  "base": "USD",
  "rates": {
   "USD": {
    "rate": 1,
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "source": {
     "es": "Referencia",
     "en": "Reference"
    }
   },
   "ARS": {
-   "rate": 1552.0,
-   "date": "2026-11-17",
+   "rate": 1558.2427,
+   "date": "2026-11-19",
    "source": {
-    "es": "BCRA, tipo de cambio mayorista (Com. A 3500)",
-    "en": "Central Bank of Argentina, wholesale rate (Com. A 3500)"
+    "es": "ExchangeRate-API (respaldo)",
+    "en": "ExchangeRate-API (fallback)"
    }
   },
   "UYU": {
-   "rate": 40.578,
-   "date": "2026-11-17",
+   "rate": 40.643,
+   "date": "2026-11-18",
    "source": {
     "es": "Banco Central del Uruguay, dólar billete",
     "en": "Central Bank of Uruguay, US dollar rate"
    }
   },
   "CLP": {
-   "rate": 1001.17,
-   "date": "2026-11-17",
+   "rate": 993.4678,
+   "date": "2026-11-19",
    "source": {
-    "es": "Banco Central de Chile, dólar observado",
-    "en": "Central Bank of Chile, observed dollar rate"
+    "es": "ExchangeRate-API (respaldo)",
+    "en": "ExchangeRate-API (fallback)"
    }
   },
   "MXN": {
-   "rate": 18.4543,
-   "date": "2026-11-17",
+   "rate": 18.6999,
+   "date": "2026-11-18",
    "source": {
     "es": "Banco de Canadá, cruce USD/CAD y MXN/CAD",
     "en": "Bank of Canada, USD/CAD and MXN/CAD cross rate"
    }
   },
   "EUR": {
-   "rate": 0.91,
-   "date": "2026-11-17",
+   "rate": 0.9117,
+   "date": "2026-11-18",
    "source": {
     "es": "Banco Central Europeo, tipo de referencia",
     "en": "European Central Bank, reference rate"
