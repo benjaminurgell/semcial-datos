@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-20T02:27:46+00:00",
+ "updated": "2026-11-21T02:38:30+00:00",
  "base": "USD",
  "rates": {
   "USD": {
    "rate": 1,
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "source": {
     "es": "Referencia",
     "en": "Reference"
@@ -19,32 +19,32 @@
    }
   },
   "UYU": {
-   "rate": 40.604,
-   "date": "2026-11-19",
+   "rate": 40.629,
+   "date": "2026-11-20",
    "source": {
     "es": "Banco Central del Uruguay, dólar billete",
     "en": "Central Bank of Uruguay, US dollar rate"
    }
   },
   "CLP": {
-   "rate": 1002.07,
-   "date": "2026-11-19",
+   "rate": 1008.79,
+   "date": "2026-11-20",
    "source": {
     "es": "Banco Central de Chile, dólar observado",
     "en": "Central Bank of Chile, observed dollar rate"
    }
   },
   "MXN": {
-   "rate": 19.0108,
-   "date": "2026-11-19",
+   "rate": 19.0644,
+   "date": "2026-11-20",
    "source": {
     "es": "Banco de Canadá, cruce USD/CAD y MXN/CAD",
     "en": "Bank of Canada, USD/CAD and MXN/CAD cross rate"
    }
   },
   "EUR": {
-   "rate": 0.9098,
-   "date": "2026-11-19",
+   "rate": 0.9099,
+   "date": "2026-11-20",
    "source": {
     "es": "Banco Central Europeo, tipo de referencia",
     "en": "European Central Bank, reference rate"
